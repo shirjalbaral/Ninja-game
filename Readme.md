@@ -43,12 +43,9 @@ through different levels while avoiding enemies and obstacles.</h3>
   <li>pip install pygame</li>
   <li>python game.py</li>
 </ol>
-<h2>Game Developers</h2>
+<h2>Game Developer</h2>
 <ol>
-<li>Keshar Singh Sunar</li>
-<li>Prasanna Regmi</li>
-<li>Prabesh Prajulee</li>
-<li>Santosh Gadtaula</li>
+<li>Shirjan Baral</li>
 </ol>
 
 
