@@ -41,7 +41,7 @@ through different levels while avoiding enemies and obstacles.</h3>
   <li>install python from python.org</li>
   <li>install pip</li>
   <li>pip install pygame</li>
-  <li>python game.py</li>ffggg
+  <li>python game.py</li>
 </ol>
 <h2>Game Developer</h2>
 <ol>
